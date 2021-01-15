@@ -11,7 +11,14 @@ Below is a list of tasks that correspond roughly to the "Take Action" sections o
 ## Contents
 
 1. [Instructions](#Instructions)
-1. [Resources](#Resources)
+1. [Chapter 1](#chapter-1) - Getting to Know Your Environment (9–21)
+1. [Chapter 2](#chapter-2) - The Building Blocks of Programming (22–37)
+1. [Chapter 3](#chapter-3) - Diving into Variables, Types, and Methods (38–64)
+1. [Chapter 4](#chapter-4) - Control Flow and Collection Types (65–93)
+1. [Chapter 5](#chapter-5) - Working with Classes, Structs, and OOP (94–119)
+1. [Chapter 6](#chapter-6) - Getting Your Hands Dirty with Unity (120–148)
+1. [Chapter 7](#chapter-7) - Movement, Camera Controls, and Collisions (149–175)
+1. [Chapter 8](#chapter-8) - Scripting Game Mechanics (176–207)
 
 
 
@@ -23,7 +30,7 @@ Below is a list of tasks that correspond roughly to the "Take Action" sections o
 1. Fork this repository (into your own Github account)
 1. Complete each task below inside the sample project included in this repository
 1. Check off each task as you complete it, creating files and adding content where prompted with ✏️ or  **??**
-1. Commit and push your work often
+1. Commit and push your work after each chapter
 1. After you finish, celebrate your C# proficiency! 🙌  
 
 
@@ -49,6 +56,7 @@ Getting to Know Your Environment (9–21)
 ## Chapter 2
 The Building Blocks of Programming (22–37)
 
+- [ ] Open the Unity project contained within this repo called "MilestonesProject"
 - [ ] Create Assets/Scripts/LearningCurve.cs
 	- [ ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
 	- [ ] Add a single line, multi line, and summary comment to LearningCurve.cs
