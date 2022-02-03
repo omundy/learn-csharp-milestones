@@ -28,10 +28,10 @@ Below is a list of tasks that correspond roughly to the "Take Action" sections o
 ## Instructions
 
 1. Fork this repository (into your own Github account)
-1. Complete each task below inside the sample project included in this repository
+1. Complete each task below inside this sample project (the project is the repository)
 1. Check off each task as you complete it, creating files and adding content where prompted with ✏️ or  **??**
 1. Commit and push your work after each chapter
-1. After you finish, celebrate your C# proficiency! 🙌  
+1. After you finish, celebrate your C# proficiency! 🙌
 
 
 #### Notes...
@@ -56,7 +56,7 @@ Getting to Know Your Environment (9–21)
 ## Chapter 2
 The Building Blocks of Programming (22–37)
 
-- [ ] Open the Unity project contained within this repo called "MilestonesProject"
+- [ ] Open the Unity project contained within this repo
 - [ ] Create Assets/Scripts/LearningCurve.cs
 	- [ ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
 	- [ ] Add a single line, multi line, and summary comment to LearningCurve.cs
@@ -73,8 +73,8 @@ Diving into Variables, Types, and Methods (38–64)
 		- [ ] Concatenate strings using the `+` operator, and the string interpolation method `$`
 	- [ ] Methods
 		- [ ] Define a simple method with parameters
-		- [ ] Add a return type and return some data from a method  
-		- [ ] Use data returned from a method  
+		- [ ] Add a return type and return some data from a method
+		- [ ] Use data returned from a method
 - [ ] ✏️ Explain some differences between public and private variables: **??**
 
 
