@@ -103,37 +103,37 @@ Control Flow and Collection Types (65–93)
 Working with Classes, Structs, and OOP (94–119)
 
 - Classes
-	- [ ] ✏️ Explain the difference between reference and value type variables: **??**
-	- [ ] Create Assets/Scripts/Character.cs
-		- [ ] Create a `Character` class
-		- [ ] Create `string` and `int` fields inside the Character class
-		- [ ] Create a `Character()` constructor and populate the above fields with its parameters
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Instantiate two new Character objects `hero` and `heroine` from the `Character` class
-		- [ ] Print out each characters data
-- [ ] Structs
-	- [ ] Update Assets/Scripts/Character.cs
-		- [ ] Add a `Weapon` struct
-		- [ ] Create `string` and `int` fields inside the Weapon struct
-		- [ ] Create a `Weapon()` constructor and populate the above fields with its parameters
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Instantiate two new Weapon objects `huntingBow` and `warBow` from the `Weapon` struct
-		- [ ] Print out each weapons' data
+	- [x] ✏️ Explain the difference between reference and value type variables: reference variables are assigned a place in memory that holds the value, while a value type directly stores the value
+	- [x] Create Assets/Scripts/Character.cs
+		- [x] Create a `Character` class
+		- [x] Create `string` and `int` fields inside the Character class
+		- [x] Create a `Character()` constructor and populate the above fields with its parameters
+	- [x] Update Assets/Scripts/LearningCurve.cs
+		- [x] Instantiate two new Character objects `hero` and `heroine` from the `Character` class
+		- [x] Print out each characters data
+- [x] Structs
+	- [x] Update Assets/Scripts/Character.cs
+		- [x] Add a `Weapon` struct
+		- [x] Create `string` and `int` fields inside the Weapon struct
+		- [x] Create a `Weapon()` constructor and populate the above fields with its parameters
+	- [x] Update Assets/Scripts/LearningCurve.cs
+		- [x] Instantiate two new Weapon objects `huntingBow` and `warBow` from the `Weapon` struct
+		- [x] Print out each weapons' data
 - Child classes
-	- [ ] Update Assets/Scripts/Character.cs
-		- [ ] Add a `Paladin` child class of `Character`
-		- [ ] Create a `Weapon` field inside the Paladin class
-		- [ ] Create a `Paladin()` constructor that calls the `base()` constructor. Populate the weapon in a parameter
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Instantiate a new Paladin object `knight` from the Paladin class
-		- [ ] Print the Paladin's name and weapon by overriding `PrintStatsInfo` in the base class
+	- [x] Update Assets/Scripts/Character.cs
+		- [x] Add a `Paladin` child class of `Character`
+		- [x] Create a `Weapon` field inside the Paladin class
+		- [x] Create a `Paladin()` constructor that calls the `base()` constructor. Populate the weapon in a parameter
+	- [x] Update Assets/Scripts/LearningCurve.cs
+		- [x] Instantiate a new Paladin object `knight` from the Paladin class
+		- [x] Print the Paladin's name and weapon by overriding `PrintStatsInfo` in the base class
 - Referencing objects
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Store a reference to the current game object's (Main Camera) `Transform` component using `GetComponent<>()`
-		- [ ] Log a reference to the `localPosition` field of the Main Camera's `Transform`
-		- [ ] Store a reference to the Light `GameObject` using `GameObject.Find()`
-		- [ ] Store a reference to the Light's `Transform` component using `GetComponent<>()`
-		- [ ] Log a reference to the `localPosition` field of the Light's `Transform`
+	- [x] Update Assets/Scripts/LearningCurve.cs
+		- [x] Store a reference to the current game object's (Main Camera) `Transform` component using `GetComponent<>()`
+		- [x] Log a reference to the `localPosition` field of the Main Camera's `Transform`
+		- [x] Store a reference to the Light `GameObject` using `GameObject.Find()`
+		- [x] Store a reference to the Light's `Transform` component using `GetComponent<>()`
+		- [x] Log a reference to the `localPosition` field of the Light's `Transform`
 
 
 
