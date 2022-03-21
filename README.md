@@ -56,11 +56,11 @@ Getting to Know Your Environment (9–21)
 ## Chapter 2
 The Building Blocks of Programming (22–37)
 
-- [ ] Open the Unity project contained within this repo
-- [ ] Create Assets/Scripts/LearningCurve.cs
-	- [ ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
-	- [ ] Add a single line, multi line, and summary comment to LearningCurve.cs
-	- [ ] Run the code in LearningCurve by attaching it to the Main Camera GameObject
+- [ x ] Open the Unity project contained within this repo
+- [ x ] Create Assets/Scripts/LearningCurve.cs
+	-  x ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
+	- [ x ] Add a single line, multi line, and summary comment to LearningCurve.cs
+	- [ x ] Run the code in LearningCurve by attaching it to the Main Camera GameObject
 
 
 ## Chapter 3
