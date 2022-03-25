@@ -130,3 +130,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MoveSpeed: 10
   RotateSpeed: 75
+  JumpVelocity: 5
+  DistanceToGround: 0.1
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  Bullet: {fileID: 4948788006895253896, guid: 7000856ef13e89743894cae6f0ce4b6f, type: 3}
+  BulletSpeed: 100
