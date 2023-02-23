@@ -1,6 +1,6 @@
 # C# Unity Milestones
 
-Below is a list of tasks that correspond roughly to the "Take Action" sections of [Learning C# by Developing Games with Unity 2020](https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2020-fifth-edition/9781800207806) by Harrison Ferrone. By mid-semester, everyone should...
+Below is a list of tasks that correspond roughly to the "Take Action" sections of [Learning C# by Developing Games with Unity](https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-seventh-edition/9781837636877) by Harrison Ferrone. By mid-semester, everyone should...
 
 - Understand what the task is asking
 - Be able to do the task
